@@ -1,0 +1,21 @@
+/* reset-css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.hide {
+    display: none;
+}
+
+
+.show {
+    display: block;
+    height:60px;
+    position: absolute; 
+    top: 80px; 
+    left:0;
+}
